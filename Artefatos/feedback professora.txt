@@ -1,0 +1,21 @@
+artefato 17:
+	Deve conter as capacidade do artefato 15.
+	Definir a relação dos eventos!
+artefato 18 :
+	Descrever melhor ao inves de topicos.
+	Pontuar os Elementos.
+
+artefato 19 :
+	ajuste plural RN 02.
+
+Artefato 20 :
+	Contemplar as informações do DFD no DER.
+	um dos 4 Tipos.
+Artefato 21:
+	Numero do envento deve ser o mesmo da tabela de evento(17 e relacionado UM processo do DFD .
+
+Artefato 22:
+	Ao definir os requistos utilizar o checklist de Requisitos para VALIDAR!
+Artefato 23:
+	Caracteristicas vs requisitos de sistema.
+	Atualizar Formatação
